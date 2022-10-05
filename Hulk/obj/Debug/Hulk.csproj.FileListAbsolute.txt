@@ -1,0 +1,8 @@
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\bin\Debug\Hulk.exe.config
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\bin\Debug\Hulk.exe
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\bin\Debug\Hulk.pdb
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\obj\Debug\Hulk.csproj.AssemblyReference.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\obj\Debug\Hulk.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\obj\Debug\Hulk.csproj.CoreCompileInputs.cache
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\obj\Debug\Hulk.exe
+C:\Users\nata\Desktop\Vs_projects\Calculator1\Hulk\Hulk\obj\Debug\Hulk.pdb
